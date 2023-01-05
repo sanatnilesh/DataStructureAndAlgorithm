@@ -1,0 +1,1 @@
+This is index file where I have divided problem into categories and based on dsa concepts.
