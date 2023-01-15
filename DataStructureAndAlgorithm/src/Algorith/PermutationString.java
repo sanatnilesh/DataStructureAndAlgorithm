@@ -1,4 +1,4 @@
-package Leetcode;
+package Algorith;
 
 
 /**
@@ -8,7 +8,7 @@ package Leetcode;
  */
 public class PermutationString {
 	public static void main(String[] args) {
-		String str = "ab";
+		String str = "abc";
 		//System.out.println(str.substring(0,1) + str.substring(1+1));
 		permutation(str);
 		
@@ -19,7 +19,7 @@ public class PermutationString {
 	}
 
 	private static void permutation(String str, String prefix) {
-		System.out.println("String :" + str + "      "+ "Prefix :"+ prefix);
+		//System.out.println("String :" + str + "      "+ "Prefix :"+ prefix);
 		if (str.length() == 0) {
 			System.out.println(prefix);
 		}else {

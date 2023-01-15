@@ -1,4 +1,4 @@
-package Leetcode;
+package Java;
 
 import java.util.Iterator;
 

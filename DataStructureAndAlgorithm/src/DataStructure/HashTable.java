@@ -1,4 +1,4 @@
-package Leetcode;
+package DataStructure;
 
 import java.util.Hashtable;
 import java.util.Map;
@@ -21,10 +21,10 @@ public class HashTable {
 		hashtable.put(1, "Sanat");
 		
 		//update element with given key.
-		hashtable.put(1, "Nickname");
-		hashtable.put(2, "Dhobi");
-		hashtable.put(3, "is");
-		hashtable.put(4, "a student");
+		hashtable.put(1, "Oreo");
+		hashtable.put(2, "is");
+		hashtable.put(3, "popular");
+		hashtable.put(4, "Biscuit");
 		
 		//Retrieve element from the Hash Table.
 		System.out.println(hashtable);

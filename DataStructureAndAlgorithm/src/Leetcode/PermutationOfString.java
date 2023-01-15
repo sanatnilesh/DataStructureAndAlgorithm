@@ -6,7 +6,6 @@ import java.util.List;
 public class PermutationOfString {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		boolean value = checkInclusion("ab","eidbaooo");
 		System.out.println(value);
 	}
@@ -25,7 +24,6 @@ public class PermutationOfString {
 	}
 
 	private static List<String> permutation(String string, String prefix, List<String> str) {
-		// TODO Auto-generated method stub
 		if (string.length() == 0) {
 			str.add(prefix);
 		} else {
