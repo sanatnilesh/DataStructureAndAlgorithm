@@ -6,6 +6,7 @@ import Algorithm.LinearSearch;
 import Algorithm.MergeSort;
 import Algorithm.QuickSort;
 import Algorithm.SelectionSort;
+import Algorithm.LinearSearch;
 
 public class Arrays {
 
