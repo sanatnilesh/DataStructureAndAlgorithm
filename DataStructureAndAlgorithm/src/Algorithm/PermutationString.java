@@ -1,4 +1,4 @@
-package Algorith;
+package Algorithm;
 
 
 /**
